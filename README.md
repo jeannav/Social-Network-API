@@ -39,7 +39,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Deployed Link
 
-[GitHub repo](https://github.com/jeannav/Tech-Blog)
+[GitHub repo](https://github.com/jeannav/Social-Network-API)
 
 ### Author
 
